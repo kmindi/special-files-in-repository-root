@@ -6,6 +6,10 @@ Description for and list of popular special files like README/CHANGELOG/LICENSE 
 
 ## ReadMe `README.md` `README`
 
+The ReadMe is usually the first document people will see of your project. Depending on your project it should give a **short** introduction and usage/build examples. It **should only contain the information you expect users to read**. It is usually possible to link to other documentation files using the **markdown syntax** which gets rendered as html by popular repository hosting platforms.
+
+[awesome-readme](https://github.com/matiassingers/awesome-readme): List of **good/awesome Readmes** and links to *How to write a good ReadMe*.
+
 ## Change Log `CHANGELOG.md` `CHANGELOG` (`CHANGES`/`HISTORY`/`NEWS`/`RELEASES`)
 
 - [keepachangelog.com](http://keepachangelog.com/) [keepachangelog.com GitHub-Repo](https://github.com/olivierlacan/keep-a-changelog)
