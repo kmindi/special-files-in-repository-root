@@ -34,4 +34,7 @@ The ReadMe is usually the first document people will see of your project. Depend
 
 - [GitHub Blog Post](https://github.com/blog/2111-issue-and-pull-request-templates)
 
+# Frequently Asked Questions
+## When should I name the file ending in **.md**?
 
+In general only files that end in `.md` will be renderd using markdown. So whenever you want to use markdown features that should be rendered visually (like headings/sections/lists/clickable links/bold/italic/...) you should use `.md`.
