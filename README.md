@@ -12,13 +12,23 @@ The ReadMe is usually the first document people will see of your project. Depend
 
 ## Change Log `CHANGELOG.md` `CHANGELOG` (`CHANGES`/`HISTORY`/`NEWS`/`RELEASES`)
 
-- [keepachangelog.com](http://keepachangelog.com/) [keepachangelog.com GitHub-Repo](https://github.com/olivierlacan/keep-a-changelog)
+The change log **lists all important changes between different, even unreleased, versions of your project**. It should not contain every commit message, as that information may be too detailed and can be fetched from the version control system too.
+
+- [keepachangelog.com](http://keepachangelog.com/): How to keep a changelog 
 
 ## Contribution Guidelines `CONTRIBUTING.md` `CONTRIBUTING`
 
-- [GitHub Blog Post](https://github.com/blog/1184-contributing-guidelines)
+In the open source world many people can easily contribute to your project. If you want to set certain guidelines that the contributors should respect they usually are found in this file. 
+
+On [GitHub](https://github.com/blog/1184-contributing-guidelines) this file will be linked on the *New Issue* and *New Pull Request* pages, to increase contributor awareness for the guidelines.
 
 ## License `LICENSE.md` `LICENSE` (`COPYING`)
+
+It is important to explicitly state the license (or licenses) under which you publish your project. If you don't the default copyright laws apply. 
+
+If you have no experience in choosing a license you should consider contacting a lawyer, especially if your project contains other (licensed) work, (future) legal trademarks and other intellectual property that needs careful protection. There is also an online service that helps you choose a license: [choosealicense.com](http://choosealicense.com/)
+
+It is common that the **name of the license is also mentioned in the ReadMe** and links to the full text which is found in this `LICENSE` file.
 
 ## List of Contributors `CONTRIBUTORS.md` `CONTRIBUTORS`
 
