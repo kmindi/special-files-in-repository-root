@@ -1,4 +1,5 @@
-# special-files-in-root-directory
+# Common *special files* found in the root directory of a repository
+
 Description for and list of popular special files like README/CHANGELOG/LICENSE and others.
 
 # README-like
