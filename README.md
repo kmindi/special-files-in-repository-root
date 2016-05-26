@@ -30,9 +30,25 @@ If you have no experience in choosing a license you should consider contacting a
 
 It is common that the **name of the license is also mentioned in the ReadMe** and links to the full text which is found in this `LICENSE` file.
 
-## List of Contributors `CONTRIBUTORS.md` `CONTRIBUTORS`
+## List of Contributors `CONTRIBUTORS.md` `CONTRIBUTORS` (see `AUTHORS`)
 
-## List of copyright holders/authors `AUTHORS.md` `AUTHORS`
+Special list of people and/or organizations that have contributed to your project. Depending on your project and your contribution guidelines, 
+- contributors may decide themselves if they should appear in that list, 
+- they have to appear (by adding their name themselve) in that list or 
+- that only substantial contributions will be mentioned in that file by a responsible person of your project management team or you (see `AUTHORS` for this purpose)
+
+## List of copyright holders/authors `AUTHORS.md` `AUTHORS`  (see `CONTRIBUTORS`)
+
+Legally relevant contributors/authors of the project should be listed in this file.
+
+According to the GNU ["Only the contributions that are legally significant for copyright purposes (see Legally Significant) need to be listed. Small contributions, bug reports, ideas, etc., can be omitted."](https://www.gnu.org/prep/maintain/html_node/Recording-Contributors.html)
+
+
+## Acknowledgments `ACKNOWLEDGMENTS.md` `ACKNOWLEDGMENTS`
+
+Mentioning other work, their copyright notice and used license can be done in `ACKNOWLEDGMENTS.md`.
+
+If your project builds upon other software, parts of software (libraries) or simply work owned by someone else, it depends on their license how you have to acknowledge its usage in your project. Usually you have to state their copyright notice and license used somewhere in your project.
 
 # Other
 
