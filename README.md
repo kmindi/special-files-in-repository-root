@@ -34,6 +34,13 @@ It is common that the **name of the license is also mentioned in the ReadMe** an
 
 ## List of copyright holders/authors `AUTHORS.md` `AUTHORS`
 
+# Other
+
+## Code of Conduct `CODE_OF_CONDUCT.md`
+
+A more general and broad form of rules (than the ones in `CONTRIBUTING`) that people interacting with your project have to obey.
+See [contributor-covenant.org](http://contributor-covenant.org/) for an example.
+
 # Platform-dependent features/templates
 
 ## *New Issue* `ISSUE_TEMPLATE`
