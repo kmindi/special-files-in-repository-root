@@ -63,7 +63,7 @@ See [contributor-covenant.org](http://contributor-covenant.org/) for an example.
 
 - [GitHub Blog Post](https://github.com/blog/2111-issue-and-pull-request-templates)
 
-## *New Pull Request* `NEW_PULL_REQUEST`
+## *New Pull Request* `PULL_REQUEST_TEMPLATE`
 
 - [GitHub Blog Post](https://github.com/blog/2111-issue-and-pull-request-templates)
 
