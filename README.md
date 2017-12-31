@@ -70,4 +70,4 @@ See [contributor-covenant.org](http://contributor-covenant.org/) for an example.
 # Frequently Asked Questions
 ## When should I name the file ending in **.md**?
 
-In general only files that end in `.md` will be renderd using markdown. So whenever you want to use markdown features that should be rendered visually (like headings/sections/lists/clickable links/bold/italic/...) you should use `.md`.
+In general only files that end in `.md` will be rendered using markdown. So whenever you want to use markdown features that should be rendered visually (like headings/sections/lists/clickable links/bold/italic/...) you should use `.md`.
