@@ -67,6 +67,12 @@ See [contributor-covenant.org](http://contributor-covenant.org/) for an example.
 
 - [GitHub Blog Post](https://github.com/blog/2111-issue-and-pull-request-templates)
 
+## *Code Owners* `CODEOWNERS`
+
+A CODEOWNERS file defines users who are resposible for code.
+
+[On GitHub](https://help.github.com/articles/about-codeowners/), these users are automatically requested to review pull requests that modify code that they own.
+
 # Frequently Asked Questions
 ## When should I name the file ending in **.md**?
 
