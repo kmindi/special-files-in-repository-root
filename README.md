@@ -22,6 +22,12 @@ In the open source world many people can easily contribute to your project. If y
 
 On [GitHub](https://github.com/blog/1184-contributing-guidelines) this file will be linked on the *New Issue* and *New Pull Request* pages, to increase contributor awareness for the guidelines.
 
+## Support resources `SUPPORT.md` `SUPPORT`
+
+This file is intended to let people know about ways to get help with your project.
+
+On [Github](https://help.github.com/articles/adding-support-resources-to-your-project/) this file will be linked on the *New Issue* issue page (but, unlike the Contribution Guidelines, *not* on the *New Pull Request* page).
+
 ## License `LICENSE.md` `LICENSE` (`COPYING`)
 
 It is important to explicitly state the license (or licenses) under which you publish your project. If you don't the default copyright laws apply. 
