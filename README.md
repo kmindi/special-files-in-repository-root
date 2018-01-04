@@ -57,12 +57,6 @@ If your project builds upon other software, parts of software (libraries) or sim
 A more general and broad form of rules (than the ones in `CONTRIBUTING`) that people interacting with your project have to obey.
 See [contributor-covenant.org](http://contributor-covenant.org/) for an example.
 
-## Code Owners `CODEOWNERS`
-
-A CODEOWNERS file defines users who are resposible for code.
-
-[On GitHub](https://help.github.com/articles/about-codeowners/), these users are automatically requested to review pull requests that modify code that they own.
-
 # Platform-dependent features/templates
 
 ## *New Issue* `ISSUE_TEMPLATE`
@@ -72,6 +66,12 @@ A CODEOWNERS file defines users who are resposible for code.
 ## *New Pull Request* `PULL_REQUEST_TEMPLATE`
 
 - [GitHub Blog Post](https://github.com/blog/2111-issue-and-pull-request-templates)
+
+## *Code Owners* `CODEOWNERS`
+
+A CODEOWNERS file defines users who are resposible for code.
+
+[On GitHub](https://help.github.com/articles/about-codeowners/), these users are automatically requested to review pull requests that modify code that they own.
 
 # Frequently Asked Questions
 ## When should I name the file ending in **.md**?
